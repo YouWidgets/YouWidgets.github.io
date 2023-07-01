@@ -15,7 +15,7 @@ links:
     url:          /
     external:     false
   - name:         PrivacyAndPolicy
-    url:          /pages/privacy_and_policy_en
+    url:          /pages/privacy_policy_en
     external:     false
   - name:         TermsAndConditions
     url:          /pages/terms_and_conditions_en
