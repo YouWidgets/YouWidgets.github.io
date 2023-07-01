@@ -3,7 +3,7 @@ title:            "YouWidgets"
 description:      ""
 url:              https://YouWidgets.github.io # 域名
 signoff:          "YouWidgets" # Your name
-facebook_appid:   #764424567
+facebook_appid:   
 google_analytics: 
 share:            true 
 # 分页
@@ -11,29 +11,14 @@ paginate: 15
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         首页
+  - name:         HomePage
     url:          /
     external:     false
-  - name:         日常
-    url:          /pages/u3daily
+  - name:         PrivacyAndPolicy
+    url:          /pages/privacy_and_policy_en
     external:     false
-  - name:         插件
-    url:          /pages/u3plugin
-    external:     false
-  - name:         游戏
-    url:          /pages/u3game
-    external:     false
-  - name:         演示
-    url:          /pages/u3demo
-    external:     false
-  - name:         归档
-    url:          /pages/archives
-    external:     false
-  - name:         标签
-    url:          /pages/tags
-    external:     false
-  - name:         关于
-    url:          /pages/about
+  - name:         TermsAndConditions
+    url:          /pages/terms_and_conditions_en
     external:     false
 # ------------ CONFIGURABLE END ------------
 
