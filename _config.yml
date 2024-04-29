@@ -20,6 +20,9 @@ links:
   - name:         TermsAndConditions
     url:          /pages/terms_and_conditions_en
     external:     false
+  - name:         iHabitPrivacyAndPolicy
+    url:          /pages/ihabit_privacy_policy_en
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 #permalink:  /:categories/:title.html
